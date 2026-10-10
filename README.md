@@ -1,4 +1,4 @@
-## v1.0.0 首发版本
+<img width="2549" height="1403" alt="62691b009825077a7fb8a183ef45e6df" src="https://github.com/user-attachments/assets/2b704434-8c6c-4d2c-a65c-56b96028904a" />## v1.0.0 首发版本
 仙羽 - 闲鱼卖家本地工作台 Electron 桌面程序
 ✅ 离线本地运行，所有文案图片不上传服务器
 ✅ 内置违禁词库，支持文案实时检测 / 批量检测
